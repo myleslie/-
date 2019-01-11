@@ -1,6 +1,6 @@
 ## 欢迎来到张海峰的个人页面
 ![Image](https://github.com/myleslie/zhfleslie/blob/master/res/leslie.jpg)
-<img src ="res/leslie.jpg"></img>
+<img src ="res/leslie.jpg">
 
 
 ### zhfleslie
